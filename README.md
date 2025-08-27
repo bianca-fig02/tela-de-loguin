@@ -1,4 +1,4 @@
-# Login Fofinho
+# Login
 
 Este projeto consiste em uma **tela de login simples e estilizada**, desenvolvida em HTML e CSS.  
 O objetivo foi praticar a criação de formulários, layout e estilização de páginas web.
